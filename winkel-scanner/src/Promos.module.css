@@ -1,0 +1,13 @@
+.AllPromos{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Link{
+
+    text-decoration: none;
+
+}

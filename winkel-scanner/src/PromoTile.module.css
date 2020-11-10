@@ -1,0 +1,49 @@
+.ShopName, .ThePromo, .Condition, .Points, .Button{
+
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    font-weight: 800;
+    color:  #376E6F;
+    text-align: center;
+
+}
+
+.ThePromo{
+    font-size: 2rem;
+    color: #1C3334;
+}
+
+.Condition{
+    font-size: 1rem;
+    color: #376E6F;;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.Points{
+    color: grey;
+    font-weight: bold;
+}
+
+.PromoTile{
+    background-color: white;
+    width: 15rem;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+
+    margin: 2rem;
+    padding: 0.2rem;
+    border-style: double;
+    border-radius: 2rem;
+    border-color: #376E6F;
+    border-width: 7px;
+}
+
+.Button{
+
+    font-size: 1rem;
+    background-color: rgb(238, 185, 252);
+    border-radius: 0.5rem;
+
+}

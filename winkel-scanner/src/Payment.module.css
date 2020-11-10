@@ -1,0 +1,14 @@
+.Payment{
+    margin-top: 6rem;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.Text{
+    text-align: center;
+    margin: 3rem;
+    font-size: 3rem;
+    font-weight: 900;
+    color:  white;
+}

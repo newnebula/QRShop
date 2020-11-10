@@ -1,0 +1,41 @@
+.ModeChoiceButtonHome, .ModeChoiceButtonShopping{
+
+    width: 17rem;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    text-align: center;
+
+    color: #376E6F;
+    background-color: white;
+
+    font-weight: 600;
+    font-size: 2rem;
+
+    margin: 3rem;
+    padding: 0.2rem;
+
+    border-style: double;
+    border-radius: 2rem;
+    border-color: #376E6F;
+    border-width: 10px;
+
+}
+.ModeChoiceButtonShopping{
+    color: #a71a32;
+    border-color:#a71a32;
+}
+
+.ModeChoiceButtonHome:hover, .ModeChoiceButtonShopping:hover{
+    color: #c99c21;
+    border-color:#c99c21;
+    cursor: pointer;
+}
+
+
+
+.Link{
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+}

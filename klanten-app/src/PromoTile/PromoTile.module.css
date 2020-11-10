@@ -1,0 +1,47 @@
+.ShopName, .ThePromo, .Condition, .Points{
+
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    font-weight: 800;
+    color:  #376E6F;
+    /* margin-bottom: 1em; */
+    text-align: center;
+
+}
+
+.ThePromo{
+    font-size: 2rem;
+    color: #1C3334;
+}
+
+.Condition{
+    font-size: 1rem;
+    color: #376E6F;;
+    font-style: italic;
+    text-decoration: underline;
+    margin-top: 0rem;
+    padding-top: 0rem;
+}
+
+.Points{
+    color: grey;
+    font-weight: bold;
+}
+
+.PromoTile{
+    background-color: white;
+    width: 15rem;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin: 1rem;
+    padding: 0.2rem;
+    border-style: double;
+    border-radius: 2rem;
+    border-color: #376E6F;
+    border-width: 7px;
+}
+
+.PromoTile:hover{
+    background-color: #c99c21;
+}

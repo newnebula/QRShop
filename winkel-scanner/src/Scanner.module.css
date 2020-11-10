@@ -1,0 +1,25 @@
+.Scanner{
+    margin: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Text, .ErrorMessage{
+    color: white;
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+.Message{
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+}
+.ErrorMessage{
+    color: rgb(131, 75, 122);
+}
+
+.OuterDiv{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
