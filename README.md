@@ -12,3 +12,5 @@ While shopping the QR code representing the shop is scanned at the counter (Tabl
 The customer picks a  promotion  and the payment automatically proceeds.
 Additionally “klanten-app” provides an overwiev of all current promotions available to this customer in all of her shops.
 
+the QR scanner: https://github.com/JodusNodus/react-qr-reader
+
